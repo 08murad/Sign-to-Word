@@ -78,7 +78,7 @@ This project is licensed under the CC0-1.0 license License. Feel free to use and
 
 
 For any queries or support, please contact:
-Md. Murad Hasan
+Md. Murad Hasan;
 Email: 08muradhasan@gmail.com
 
 
