@@ -1,6 +1,6 @@
-# Sign-to-Word using Tensorflow CNN for Deaf and Mute Individuals Communication
+# Sign-to-Word by Gesture Detection using Tensorflow CNN for Deaf and Mute Individuals Communication
 
-This project provides a Python-based implementation for recognizing and visualizing sign gestures of deaf and mute individuals. Leveraging MediaPipe’s holistic model and OpenCV, the system detects and interprets face, hand, and pose landmarks in real-time, offering transformative applications in assistive communication and education.
+This project provides a Python-based implementation for recognizing and visualizing sign gestures of deaf and mute individuals. Leveraging MediaPipe’s holistic model and OpenCV, the system detects and interprets face, hand, and pose landmarks in real time, offering transformative applications in assistive communication and education.
 
 # Features
 
