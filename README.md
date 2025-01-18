@@ -69,7 +69,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests with
 
  License
 
-This project is licensed under the MIT License. Feel free to use and modify the code for personal or commercial purposes.
+This project is licensed under the  License. Feel free to use and modify the code for personal or commercial purposes.
 
 # Acknowledgments
 
